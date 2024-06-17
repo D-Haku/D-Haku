@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aditya singh</h1>
 <h3 align="center">Fullstack web and app developer</h3>
-<img align="right" alt="Dance" width="400" src="https://media1.tenor.com/m/o9c6lRvOpMkAAAAd/dazai-dazai-osamu.gif">
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=d-haku&label=Profile%20views&color=0e75b6&style=flat" alt="d-haku" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
